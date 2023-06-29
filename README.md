@@ -1,4 +1,4 @@
-# JEE E-Banking-Angular
+# JEE E-Banking-JWT
 
 Welcome to the JEE E-Banking-Angular repository! This repository contains the source code for a Java Enterprise Edition (JEE) application that combines Angular for the frontend and JEE for the backend to create an e-banking web application.
 
